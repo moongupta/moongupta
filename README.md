@@ -199,7 +199,7 @@ Features:
 ✓ Responsive interface  
 ✓ Future-focused UI design
 
-s
+
 
 
 ---
@@ -337,17 +337,14 @@ Currently focused on:
 ---
 
 
-# 🐍 Contribution Journey
-
+# 📈 Contribution Journey
 
 <div align="center">
 
----
-
-<img src="https://raw.githubusercontent.com/moongupta/moongupta/output/github-contribution-grid-snake-dark.svg"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=moongupta&show_icons=true&theme=github_dark&hide_border=true"/>
 
 </div>
+
 
 ---
 
