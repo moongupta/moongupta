@@ -122,12 +122,15 @@ Features:
 
 # 📊 GitHub Analytics
 
+<div align="center">
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=moongupta&show_icons=true&theme=transparent&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=moongupta&show_icons=true&theme=tokyonight&hide_border=true"/>
+<br/>
 
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moongupta&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
 
 
 ---
