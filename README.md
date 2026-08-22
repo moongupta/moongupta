@@ -1,28 +1,26 @@
 <div align="center">
 
-<img src="./moon-banner.png" width="100%" />
-
-<br>
+<img src="./moon-banner.png" width="100%">
 
 # 🌙 Moon Gupta
 
-<img src="https://komarev.com/ghpvc/?username=moongupta&style=for-the-badge&color=38BDF8"/>
+<img src="https://komarev.com/ghpvc/?username=moongupta&style=for-the-badge&color=38BDF8">
 
-<img src="https://img.shields.io/github/followers/moongupta?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/moongupta?style=for-the-badge">
 
-<img src="https://img.shields.io/github/stars/moongupta?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/moongupta?style=for-the-badge">
 
-<br><br>
 
 ## Full Stack Developer • Product Builder • Creative Technologist
 
+
 Building futuristic digital experiences using:
 
-**Next.js | React | TypeScript | Node.js | AI**
+**Next.js • React • TypeScript • Node.js • AI**
 
-<br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Products+Not+Just+Projects;Creating+Technology+With+Purpose;Always+Learning+Always+Building;Turning+Ideas+Into+Reality"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Products+Not+Just+Projects;Creating+Technology+With+Purpose;Always+Learning+Always+Building;Turning+Ideas+Into+Reality">
+
 
 </div>
 
@@ -31,11 +29,15 @@ Building futuristic digital experiences using:
 
 # 👋 About Me
 
+
 Hi, I'm **Moon Gupta**.
 
-I am a Full Stack Developer passionate about creating modern products, beautiful interfaces, and meaningful technology.
 
-I enjoy transforming ideas into real-world applications by combining:
+I am a Full Stack Developer passionate about building modern products, beautiful interfaces, and meaningful technology.
+
+
+I love transforming ideas into real-world applications using:
+
 
 - 🚀 Frontend Engineering
 - ⚡ Backend Architecture
@@ -46,6 +48,7 @@ I enjoy transforming ideas into real-world applications by combining:
 
 My philosophy:
 
+
 > "Build things that create impact."
 
 
@@ -54,162 +57,74 @@ My philosophy:
 # 🚀 Currently Building
 
 
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="33%" align="center">
-
-<h3>🌙 MoonWave</h3>
-
-<img src="./assets/moonwave.png" width="100%">
-
-<br>
-
-A futuristic music streaming experience.
-
-<br>
-
-<b>Built With</b>
-
-<br>
-
-Next.js  
-TypeScript  
-Tailwind CSS  
-Audio Architecture
-
-<br>
-
-<a href="#">
-View Project →
-</a>
-
-</td>
+## 🌙 MoonWave
 
 
-<td width="33%" align="center">
-
-<h3>🖥️ DEV-ORA</h3>
-
-<img src="./assets/devora.png" width="100%">
-
-<br>
-
-A futuristic developer community platform.
-
-<br>
-
-<b>Built With</b>
-
-<br>
-
-HTML  
-CSS  
-JavaScript  
-Tailwind CSS
-
-<br>
-
-<a href="#">
-View Project →
-</a>
-
-</td>
+A futuristic music streaming experience inspired by the next generation of digital entertainment.
 
 
-<td width="33%" align="center">
-
-<h3>🤖 Friday AI</h3>
-
-<img src="./assets/friday.png" width="100%">
-
-<br>
-
-Personal AI assistant focused on productivity and automation.
-
-<br>
-
-<b>Built With</b>
-
-<br>
-
-AI  
-Automation  
-Smart Systems
-
-<br>
-
-Coming Soon 🚀
-
-</td>
+Built with:
 
 
-</tr>
+- ⚡ Next.js
+- 🔷 TypeScript
+- 🎨 Tailwind CSS
+- 🎵 Audio Engine Architecture
+- ✨ Motion Design
 
-</table>
-
-</div>
-
-
----
-
-# 🌙 MoonWave
-
-> A next-generation music streaming experience.
-
-Building a futuristic listening ecosystem with:
-
-- 🎵 Modern audio player
-- ✨ Smooth animations
-- 📱 Responsive interface
-- ⚡ Next.js architecture
-- 🎧 Immersive user experience
-
-
-Technology:
-Next.js
-TypeScript
-Tailwind CSS
-Framer Motion
-Audio Engine Architecture
-
-
----
-
-# 🖥️ DEV-ORA
-
-> A futuristic developer social platform.
-
-A place where developers share knowledge, projects, and ideas.
 
 Features:
 
-- Developer posts
-- Community interaction
-- Learning ecosystem
-- Modern UI experience
 
-
-Technology:
-HTML
-CSS
-JavaScript
-Tailwind CSS
+✓ Modern music player  
+✓ Smooth animations  
+✓ Responsive interface  
+✓ Future-focused UI  
 
 
 ---
 
-# 🤖 Friday AI
 
-A personal intelligence system designed for:
+## 🖥️ DEV-ORA
+
+
+A futuristic developer community platform where developers can share ideas, projects and knowledge.
+
+
+Built with:
+
+
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
+
+
+Features:
+
+
+✓ Developer posts  
+✓ Community interaction  
+✓ Modern UI  
+✓ Learning ecosystem  
+
+
+---
+
+
+## 🤖 Friday AI
+
+
+A personal AI assistant concept focused on:
+
 
 - Productivity
 - Automation
 - Smart workflows
-- Personal assistance
+- Personal intelligence systems
+
+
+Coming Soon 🚀
 
 
 ---
@@ -219,9 +134,62 @@ A personal intelligence system designed for:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,nodejs,express,mongodb,tailwind,git,github,vscode" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,nodejs,express,mongodb,tailwind,git,github,vscode">
+
 
 </div>
+
+
+---
+
+# 📌 Featured Projects
+
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+
+## 🌙 MoonWave
+
+
+🎵 Next-generation music streaming platform.
+
+
+Tech:
+
+
+Next.js • TypeScript • Tailwind CSS
+
+
+</td>
+
+
+<td width="50%">
+
+
+## 🖥️ DEV-ORA
+
+
+💻 Developer social platform.
+
+
+Tech:
+
+
+HTML • CSS • JavaScript • Tailwind CSS
+
+
+</td>
+
+
+</tr>
+
+
+</table>
 
 
 ---
@@ -231,11 +199,15 @@ A personal intelligence system designed for:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moongupta&theme=github_dark" width="90%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moongupta&theme=github_dark" width="90%">
+
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moongupta&theme=github-dark-blue" width="70%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=moongupta&theme=github-dark-blue">
+
 
 </div>
 
@@ -247,12 +219,13 @@ A personal intelligence system designed for:
 
 Currently focused on:
 
-Advanced Next.js Architecture
-Backend Engineering
-System Design
-Artificial Intelligence
-Cloud Deployment
-Building Scalable Products
+
+- Advanced Next.js Architecture
+- Backend Engineering
+- System Design
+- Artificial Intelligence
+- Cloud Deployment
+- Building Scalable Products
 
 
 ---
@@ -262,10 +235,11 @@ Building Scalable Products
 
 I don't want to only write code.
 
-I want to create products that solve problems and create impact.
+
+I want to build products that solve problems and create impact.
 
 
-Every project is a step toward building meaningful technology.
+Every project is a step toward creating meaningful technology.
 
 
 ---
@@ -284,56 +258,46 @@ building: [
 "Friday AI"
 ],
 
-focus: [
-"Product Development",
-"AI Systems",
-"Future Technology"
+skills: [
+"Frontend Engineering",
+"Backend Systems",
+"AI",
+"Product Development"
 ],
 
 mission:
 "Create technology with purpose"
 
 };
-;
-🌎 Connect With Me
+```
+
+
+---
+
+# 🌎 Connect With Me
+
+
 <div align="center">
 
 
 <a href="https://github.com/moongupta">
 
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
 
 </a>
 
 
 <a href="#">
 
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 
 </a>
 
 
 </div>
-;
-🌎 Connect With Me
-<div align="center">
 
 
-<a href="https://github.com/moongupta">
-
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-
-<a href="#">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-
-</div>
+---
 
 
 <div align="center">
@@ -341,7 +305,11 @@ mission:
 
 ⭐ Always learning.
 
+
 🚀 Always building.
 
+
 🌙 Creating the future one project at a time.
+
+
 </div>
