@@ -1,11 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:1e3a8a&height=220&section=header&text=Moon%20Gupta&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<h1 align="center">
+  🌙 Moon Gupta
+</h1>
 
-<h2 align="center">
-🚀 Full Stack Developer | Product Builder | Creative Technologist
-</h2>
+<h3 align="center">
+  Full Stack Developer • Product Builder • Creative Technologist
+</h3>
 
 <p align="center">
-Building futuristic digital experiences where technology meets creativity.
+  Building futuristic digital experiences with Next.js, React, TypeScript and AI.
 </p>
 
 
@@ -124,7 +126,11 @@ Features:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moongupta&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moongupta&theme=github_dark" width="90%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=moongupta&theme=github-dark-blue" width="70%"/>
 
 </div>
 
