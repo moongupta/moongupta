@@ -1,14 +1,21 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e293b,100:0f172a&height=220&section=header&text=Moon%20Gupta&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+
 # 🌙 Moon Gupta
 
-### Full Stack Developer • Product Builder • Creative Technologist
+### Full Stack Developer | Product Builder | Creative Technologist
 
-Building futuristic digital experiences where technology meets creativity.
+
+Building futuristic digital experiences with  
+**Next.js • React • TypeScript • AI • Cloud**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:020617&height=120&section=header&text=Creating%20The%20Future%20With%20Code&fontSize=30&fontColor=ffffff" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Products+Not+Just+Projects;Creating+The+Future+With+Code;Full+Stack+Developer;Always+Learning+Always+Building"/>
+
 
 </div>
 
@@ -69,18 +76,67 @@ A personal intelligence system designed for productivity, automation, and smart 
 
 ---
 
-# 🏆 Featured Projects
+# 🚀 Featured Projects
 
 
-| Project | Description |
-|---|---|
-| 🌙 MoonWave | Futuristic music streaming experience |
-| 🖥️ DEV-ORA | Developer community platform |
-| 🎵 Spotify Clone | Music player built from scratch |
-| ⚡ Advanced Projects | Experiments and learning builds |
+<div align="center">
 
 
----
+<table>
+
+<tr>
+
+<td width="50%">
+
+
+## 🌙 MoonWave
+
+🎵 Futuristic music streaming experience.
+
+Features:
+
+- Modern audio player
+- Beautiful animations
+- Responsive design
+- Next.js architecture
+
+
+Tech:
+
+Next.js • TypeScript • Tailwind CSS
+
+
+</td>
+
+
+<td width="50%">
+
+
+## 🖥️ DEV-ORA
+
+A futuristic developer community.
+
+Features:
+
+- Developer posts
+- Community interactions
+- Modern UI
+
+
+Tech:
+
+HTML • CSS • JavaScript • Tailwind CSS
+
+
+</td>
+
+
+</tr>
+
+</table>
+
+
+</div>
 
 # 🧠 Skills & Technologies
 
@@ -124,6 +180,19 @@ Currently focused on:
 
 ---
 
+
+# 🐍 Contribution Journey
+
+
+<div align="center">
+
+---
+
+<img src="https://raw.githubusercontent.com/moongupta/moongupta/output/github-contribution-grid-snake-dark.svg"/>
+
+
+</div>
+
 # 🌎 Connect With Me
 
 
@@ -156,3 +225,7 @@ Currently focused on:
 
 
 </div>
+---
+
+# 🧬 Developer Identity
+
