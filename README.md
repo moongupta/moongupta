@@ -7,6 +7,15 @@
 <div align="center">
 
 # 🌙 Moon Gupta
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=moongupta&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/followers/moongupta?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/moongupta?style=for-the-badge"/>
+
+</div>
 
 ### Full Stack Developer • Product Builder • Creative Technologist
 
@@ -46,7 +55,130 @@ My philosophy:
 ---
 
 # 🚀 Currently Building
+# 🚀 Featured Products
 
+
+<div align="center">
+
+
+<table>
+
+<tr>
+
+<td width="33%">
+
+
+<h3>🌙 MoonWave</h3>
+
+
+<img src="./assets/moonwave.png" width="100%">
+
+
+<p>
+A futuristic music streaming experience built with modern web technologies.
+</p>
+
+
+<p>
+
+Next.js  
+<br>
+TypeScript  
+<br>
+Tailwind CSS
+
+</p>
+
+
+<a href="YOUR_MOONWAVE_LINK">
+
+View Project →
+
+</a>
+
+
+</td>
+
+
+
+<td width="33%">
+
+
+<h3>🖥️ DEV-ORA</h3>
+
+
+<img src="./assets/devora.png" width="100%">
+
+
+<p>
+A developer community platform designed for sharing knowledge and projects.
+</p>
+
+
+<p>
+
+HTML  
+<br>
+CSS  
+<br>
+JavaScript
+
+</p>
+
+
+<a href="YOUR_DEVORA_LINK">
+
+View Project →
+
+</a>
+
+
+</td>
+
+
+
+<td width="33%">
+
+
+<h3>🤖 Friday AI</h3>
+
+
+<img src="./assets/friday.png" width="100%">
+
+
+<p>
+A personal AI assistant concept focused on productivity and automation.
+</p>
+
+
+<p>
+
+AI  
+<br>
+Automation  
+<br>
+Smart Systems
+
+</p>
+
+
+<a href="#">
+
+Coming Soon →
+
+</a>
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+</div>
 
 ## 🌙 MoonWave
 
