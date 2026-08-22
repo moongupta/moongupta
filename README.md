@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I'm Moon Gupta 👋
 
-<!--
-**moongupta/moongupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | Building futuristic digital experiences
 
-Here are some ideas to get you started:
+I create products where technology meets creativity, design, and human emotion.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building:
+
+## 🌙 MoonWave
+
+A futuristic music streaming experience.
+
+Built with:
+
+- Next.js
+- TypeScript
+- React
+- Tailwind CSS
+- Framer Motion
+
+Features:
+
+- 🎵 Custom music player engine
+- 🌌 Dynamic animated atmosphere
+- 🎨 Theme-based visuals
+- 📊 Audio visualization
+- ⚡ Modern responsive UI
+
+
+## ⚡ DEV-ORA
+
+A developer community platform where developers share ideas, projects, and code.
+
+Built with:
+
+- HTML
+- CSS
+- JavaScript
+- Tailwind CSS
+
+
+## 🛠️ Tech Stack
+
+### Frontend
+React.js • Next.js • TypeScript • Tailwind CSS
+
+### Backend
+Node.js • Express.js • MongoDB
+
+### Tools
+Git • GitHub • VS Code • Vercel
+
+
+## 🎯 My Vision
+
+Building meaningful digital products that feel alive.
+
+Learning every day.
+Building every day.
+Improving every day.
+
+---
+
+## 🚀 Current Focus
+
+- Advanced Next.js architecture
+- Full-stack development
+- AI-powered applications
+- Creative technology
+
+
+🌙 MoonWave  
+*"Where technology meets emotion."*
