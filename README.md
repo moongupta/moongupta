@@ -67,12 +67,28 @@ A futuristic developer social platform.
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=moongupta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moongupta&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=moongupta&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=moongupta&theme=tokyonight&hide_border=true" />
+</p>
 ## ⚡ Technologies
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,nodejs,express,mongodb,tailwind,git,github,vscode" />
+</p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/moongupta">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
 </p>
