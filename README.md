@@ -1,169 +1,122 @@
-<h1 align="center">
-  🌙 Moon Gupta
-</h1>
-
-<h3 align="center">
-  Full Stack Developer • Product Builder • Creative Technologist
-</h3>
-
-<p align="center">
-  Building futuristic digital experiences with Next.js, React, TypeScript and AI.
-</p>
-
-
----
-
-## 👋 About Me
-
-Hi, I'm **Moon Gupta**.
-
-I am a Full Stack Developer passionate about creating modern products, beautiful interfaces, and meaningful technology.
-
-I enjoy turning ideas into real-world applications using:
-
-- React
-- Next.js
-- TypeScript
-- Node.js
-- MongoDB
-
-
----
-
-# 🌙 Currently Building
-
-## MoonWave 🎵
-
-A futuristic music streaming experience inspired by the future of digital entertainment.
-
-Built with:
-
-⚡ Next.js  
-⚡ TypeScript  
-⚡ Tailwind CSS  
-⚡ Framer Motion  
-
-
-## DEV-ORA 💻
-
-A developer community platform designed for creators and programmers.
-
-Built with:
-
-⚡ HTML  
-⚡ CSS  
-⚡ JavaScript  
-⚡ Tailwind CSS  
-
-
----
-
-# 🛠️ Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,nodejs,express,mongodb,tailwind,git,github,vscode" />
+# 🌙 Moon Gupta
 
-</div>
+### Full Stack Developer • Product Builder • Creative Technologist
 
-
----
-
-# 🚀 Featured Projects
-
-
-<table>
-<tr>
-
-<td width="50%">
-
-## 🌙 MoonWave
-
-Next-generation music streaming platform.
-
-Features:
-- Modern UI
-- Music player system
-- Animations
-- Responsive design
-
-</td>
-
-
-<td width="50%">
-
-## 💻 DEV-ORA
-
-Developer social platform.
-
-Features:
-- Developer posts
-- Community experience
-- Modern interface
-
-</td>
-
-</tr>
-</table>
-
-
----
-
-# 📚 Currently Learning
-
-🧠 Advanced Next.js Architecture
-
-⚙️ Backend Engineering
-
-☁️ Cloud Deployment
-
-🎨 Product Design
-
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moongupta&theme=github_dark" width="90%"/>
+Building futuristic digital experiences where technology meets creativity.
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moongupta&theme=github-dark-blue" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:020617&height=120&section=header&text=Creating%20The%20Future%20With%20Code&fontSize=30&fontColor=ffffff" />
 
 </div>
 
 
 ---
 
-# 🌐 Connect With Me
+# 👋 About Me
+
+Hi, I'm **Moon Gupta**.
+
+I am a Full Stack Developer passionate about building modern products, beautiful interfaces, and meaningful technology.
+
+I love transforming ideas into real-world applications by combining:
+
+- 🚀 Frontend Engineering
+- ⚡ Backend Architecture
+- 🎨 Product Design
+- 🤖 Artificial Intelligence
+- ☁️ Cloud Technologies
 
 
-<p align="center">
+My philosophy:
 
-<a href="https://github.com/moongupta">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-</a>
-
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-
-</p>
+> "Build things that create impact."
 
 
 ---
+
+# 🚀 Currently Building
+
+
+## 🌙 MoonWave
+
+A next-generation music experience inspired by the future of streaming.
+
+**Tech Stack**
+
+Next.js • TypeScript • Tailwind CSS • Framer Motion • Audio APIs
+
+
+---
+
+## 🖥️ DEV-ORA
+
+A futuristic developer social platform where developers share ideas, projects, and knowledge.
+
+**Tech Stack**
+
+HTML • CSS • JavaScript • Tailwind CSS
+
+
+---
+
+## 🤖 Friday AI Assistant
+
+A personal intelligence system designed for productivity, automation, and smart workflows.
+
+
+---
+
+# 🏆 Featured Projects
+
+
+| Project | Description |
+|---|---|
+| 🌙 MoonWave | Futuristic music streaming experience |
+| 🖥️ DEV-ORA | Developer community platform |
+| 🎵 Spotify Clone | Music player built from scratch |
+| ⚡ Advanced Projects | Experiments and learning builds |
+
+
+---
+
+# 🧠 Skills & Technologies
+
 
 <div align="center">
 
-⭐ Always learning.  
-🚀 Always building.  
-🌙 Creating the future one project at a time.
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,nodejs,express,mongodb,tailwind,git,github,vscode" />
+
 
 </div>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:020617&height=120&section=footer"/>
+---
+
+# 📊 GitHub Analytics
+
+
+<div align="center">
+
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moongupta&theme=github_dark" width="90%"/>
+
+
+<br/><br/>
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=moongupta&theme=github-dark-blue" width="70%"/>
+
+
+</div>
+
+
+---
+
+# 🌱 My Journey
+
+
+Currently focused on:
