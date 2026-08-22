@@ -120,3 +120,39 @@ A personal intelligence system designed for productivity, automation, and smart 
 
 
 Currently focused on:
+
+
+---
+
+# 🌎 Connect With Me
+
+
+<div align="center">
+
+
+<a href="https://github.com/moongupta">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+
+</div>
+
+
+---
+
+<div align="center">
+
+
+⭐ Always learning.
+
+🚀 Always building.
+
+🌙 Creating the future one project at a time.
+
+
+</div>
