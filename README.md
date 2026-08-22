@@ -120,15 +120,11 @@ Features:
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=moongupta&show_icons=true&theme=transparent&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moongupta&layout=compact&theme=transparent&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moongupta&theme=github_dark" />
 
 </div>
 
