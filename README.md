@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1f1f1f&height=200&section=header&text=Moon%20Gupta&fontSize=70&fontColor=ffffff" />
 # Hi, I'm Moon Gupta 👋
 
 🚀 Full Stack Developer | Building futuristic digital experiences
@@ -66,7 +67,8 @@ A futuristic developer social platform.
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=moongupta&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=moongupta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=moongupta&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ## ⚡ Technologies
