@@ -2,22 +2,19 @@
 
 <img src="./moon-banner.png" width="100%" />
 
-</div>
-
-<div align="center">
+<br>
 
 # 🌙 Moon Gupta
-<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=moongupta&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=moongupta&style=for-the-badge&color=38BDF8"/>
 
 <img src="https://img.shields.io/github/followers/moongupta?style=for-the-badge"/>
 
 <img src="https://img.shields.io/github/stars/moongupta?style=for-the-badge"/>
 
-</div>
+<br><br>
 
-### Full Stack Developer • Product Builder • Creative Technologist
+## Full Stack Developer • Product Builder • Creative Technologist
 
 Building futuristic digital experiences using:
 
@@ -36,9 +33,9 @@ Building futuristic digital experiences using:
 
 Hi, I'm **Moon Gupta**.
 
-I am a Full Stack Developer passionate about building modern products, beautiful interfaces, and meaningful technology.
+I am a Full Stack Developer passionate about creating modern products, beautiful interfaces, and meaningful technology.
 
-I love transforming ideas into real-world applications by combining:
+I enjoy transforming ideas into real-world applications by combining:
 
 - 🚀 Frontend Engineering
 - ⚡ Backend Architecture
@@ -55,253 +52,174 @@ My philosophy:
 ---
 
 # 🚀 Currently Building
-# 🚀 Featured Products
 
 
 <div align="center">
-
 
 <table>
 
 <tr>
 
-<td width="33%">
-
+<td width="33%" align="center">
 
 <h3>🌙 MoonWave</h3>
 
-
 <img src="./assets/moonwave.png" width="100%">
 
+<br>
 
-<p>
-A futuristic music streaming experience built with modern web technologies.
-</p>
+A futuristic music streaming experience.
 
+<br>
 
-<p>
+<b>Built With</b>
+
+<br>
 
 Next.js  
-<br>
 TypeScript  
+Tailwind CSS  
+Audio Architecture
+
 <br>
-Tailwind CSS
 
-</p>
-
-
-<a href="YOUR_MOONWAVE_LINK">
-
+<a href="#">
 View Project →
-
 </a>
-
 
 </td>
 
 
-
-<td width="33%">
-
+<td width="33%" align="center">
 
 <h3>🖥️ DEV-ORA</h3>
 
-
 <img src="./assets/devora.png" width="100%">
 
+<br>
 
-<p>
-A developer community platform designed for sharing knowledge and projects.
-</p>
+A futuristic developer community platform.
 
+<br>
 
-<p>
+<b>Built With</b>
+
+<br>
 
 HTML  
-<br>
 CSS  
+JavaScript  
+Tailwind CSS
+
 <br>
-JavaScript
 
-</p>
-
-
-<a href="YOUR_DEVORA_LINK">
-
+<a href="#">
 View Project →
-
 </a>
-
 
 </td>
 
 
-
-<td width="33%">
-
+<td width="33%" align="center">
 
 <h3>🤖 Friday AI</h3>
 
-
 <img src="./assets/friday.png" width="100%">
 
+<br>
 
-<p>
-A personal AI assistant concept focused on productivity and automation.
-</p>
+Personal AI assistant focused on productivity and automation.
 
+<br>
 
-<p>
+<b>Built With</b>
+
+<br>
 
 AI  
-<br>
 Automation  
-<br>
 Smart Systems
 
-</p>
+<br>
 
-
-<a href="#">
-
-Coming Soon →
-
-</a>
-
+Coming Soon 🚀
 
 </td>
 
 
 </tr>
 
-
 </table>
-
 
 </div>
 
-## 🌙 MoonWave
 
-> A futuristic music streaming experience.
+---
 
-Built with:
+# 🌙 MoonWave
 
-⚡ Next.js  
-🎨 Tailwind CSS  
-🔷 TypeScript  
-🎵 Audio Engine Architecture  
+> A next-generation music streaming experience.
 
+Building a futuristic listening ecosystem with:
 
-Features:
-
-✓ Modern music player  
-✓ Smooth animations  
-✓ Responsive interface  
-✓ Future-focused UI design
+- 🎵 Modern audio player
+- ✨ Smooth animations
+- 📱 Responsive interface
+- ⚡ Next.js architecture
+- 🎧 Immersive user experience
 
 
+Technology:
+Next.js
+TypeScript
+Tailwind CSS
+Framer Motion
+Audio Engine Architecture
 
 
 ---
 
-## 🖥️ DEV-ORA
+# 🖥️ DEV-ORA
 
 > A futuristic developer social platform.
 
-Built with:
-
-⚡ JavaScript  
-🎨 Tailwind CSS  
-🌐 Modern Web APIs
-
-
-Features:
-
-✓ Developer community
-✓ Post system
-✓ Interactive UI
-✓ Learning ecosystem
-
-
----
-
-## 🤖 Friday AI Assistant
-
-A personal intelligence system designed for productivity, automation, and smart workflows.
-
-
----
-
-# 🚀 Featured Projects
-
-
-<div align="center">
-
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-
-## 🌙 MoonWave
-
-🎵 Futuristic music streaming experience.
-
-Features:
-
-- Modern audio player
-- Beautiful animations
-- Responsive design
-- Next.js architecture
-
-
-Tech:
-
-Next.js • TypeScript • Tailwind CSS
-
-
-</td>
-
-
-<td width="50%">
-
-
-## 🖥️ DEV-ORA
-
-A futuristic developer community.
+A place where developers share knowledge, projects, and ideas.
 
 Features:
 
 - Developer posts
-- Community interactions
-- Modern UI
+- Community interaction
+- Learning ecosystem
+- Modern UI experience
 
 
-Tech:
-
-HTML • CSS • JavaScript • Tailwind CSS
-
-
-</td>
-
-
-</tr>
-
-</table>
+Technology:
+HTML
+CSS
+JavaScript
+Tailwind CSS
 
 
-</div>
+---
+
+# 🤖 Friday AI
+
+A personal intelligence system designed for:
+
+- Productivity
+- Automation
+- Smart workflows
+- Personal assistance
+
+
+---
 
 # 🧠 Skills & Technologies
 
 
 <div align="center">
 
-
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,nodejs,express,mongodb,tailwind,git,github,vscode" />
-
 
 </div>
 
@@ -313,15 +231,11 @@ HTML • CSS • JavaScript • Tailwind CSS
 
 <div align="center">
 
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moongupta&theme=github_dark" width="90%"/>
 
-
-<br/><br/>
-
+<br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=moongupta&theme=github-dark-blue" width="70%"/>
-
 
 </div>
 
@@ -333,17 +247,12 @@ HTML • CSS • JavaScript • Tailwind CSS
 
 Currently focused on:
 
-
----
-
-
-# 📈 Contribution Journey
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=moongupta&show_icons=true&theme=github_dark&hide_border=true"/>
-
-</div>
+Advanced Next.js Architecture
+Backend Engineering
+System Design
+Artificial Intelligence
+Cloud Deployment
+Building Scalable Products
 
 
 ---
@@ -353,34 +262,79 @@ Currently focused on:
 
 I don't want to only write code.
 
-I want to build products that create impact.
+I want to create products that solve problems and create impact.
 
 
-My mission:
+Every project is a step toward building meaningful technology.
 
 
-Every project is a step toward creating meaningful technology.
+---
 
-# 🌎 Connect With Me
+# 🧬 Developer Identity
 
 
+```javascript
+const Moon = {
+
+role: "Full Stack Developer",
+
+building: [
+"MoonWave",
+"DEV-ORA",
+"Friday AI"
+],
+
+focus: [
+"Product Development",
+"AI Systems",
+"Future Technology"
+],
+
+mission:
+"Create technology with purpose"
+
+};
+;
+🌎 Connect With Me
 <div align="center">
 
 
 <a href="https://github.com/moongupta">
+
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
 
 
 <a href="#">
+
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+
+</div>
+;
+🌎 Connect With Me
+<div align="center">
+
+
+<a href="https://github.com/moongupta">
+
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+
+<a href="#">
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 
 </div>
 
-
----
 
 <div align="center">
 
@@ -390,10 +344,4 @@ Every project is a step toward creating meaningful technology.
 🚀 Always building.
 
 🌙 Creating the future one project at a time.
-
-
 </div>
----
-
-# 🧬 Developer Identity
-
