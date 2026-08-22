@@ -2,72 +2,63 @@
 
 🚀 Full Stack Developer | Building futuristic digital experiences
 
-I create products where technology meets creativity, design, and human emotion.
+I create products where technology meets creativity.
 
-Currently building:
+## 🌙 Currently Building
 
-## 🌙 MoonWave
-
-A futuristic music streaming experience.
-
-Built with:
-
+### MoonWave
+🎵 A futuristic music streaming experience built with:
 - Next.js
 - TypeScript
-- React
 - Tailwind CSS
 - Framer Motion
 
-Features:
-
-- 🎵 Custom music player engine
-- 🌌 Dynamic animated atmosphere
-- 🎨 Theme-based visuals
-- 📊 Audio visualization
-- ⚡ Modern responsive UI
-
-
-## ⚡ DEV-ORA
-
-A developer community platform where developers share ideas, projects, and code.
-
-Built with:
-
+### DEV-ORA
+💻 A developer community platform built with:
 - HTML
 - CSS
 - JavaScript
 - Tailwind CSS
 
-
 ## 🛠️ Tech Stack
 
-### Frontend
-React.js • Next.js • TypeScript • Tailwind CSS
+Frontend:
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
 
-### Backend
-Node.js • Express.js • MongoDB
+Backend:
+- Node.js
+- Express.js
+- MongoDB
 
-### Tools
-Git • GitHub • VS Code • Vercel
+Tools:
+- Git & GitHub
+- VS Code
+- Vercel
 
+## 🚀 Vision
 
-## 🎯 My Vision
+Building digital products that combine:
+- Technology
+- Creativity
+- Human experience
 
-Building meaningful digital products that feel alive.
+## 📌 Featured Projects
 
-Learning every day.
-Building every day.
-Improving every day.
+🌙 MoonWave  
+A next-generation music experience.
+
+💻 DEV-ORA  
+A futuristic developer social platform.
+
+## 📈 Goals
+
+- Build world-class products
+- Master full-stack development
+- Create meaningful technology
 
 ---
 
-## 🚀 Current Focus
-
-- Advanced Next.js architecture
-- Full-stack development
-- AI-powered applications
-- Creative technology
-
-
-🌙 MoonWave  
-*"Where technology meets emotion."*
+⭐ Always learning. Always building.
