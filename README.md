@@ -1,21 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:1e293b,100:0f172a&height=220&section=header&text=Moon%20Gupta&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="./moon-banner.png" width="100%" />
 
+</div>
+
+<div align="center">
 
 # 🌙 Moon Gupta
 
-### Full Stack Developer | Product Builder | Creative Technologist
+### Full Stack Developer • Product Builder • Creative Technologist
 
+Building futuristic digital experiences using:
 
-Building futuristic digital experiences with  
-**Next.js • React • TypeScript • AI • Cloud**
+**Next.js | React | TypeScript | Node.js | AI**
 
-<br/>
+<br>
 
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Products+Not+Just+Projects;Creating+The+Future+With+Code;Full+Stack+Developer;Always+Learning+Always+Building"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Products+Not+Just+Projects;Creating+Technology+With+Purpose;Always+Learning+Always+Building;Turning+Ideas+Into+Reality"/>
 
 </div>
 
@@ -49,22 +50,45 @@ My philosophy:
 
 ## 🌙 MoonWave
 
-A next-generation music experience inspired by the future of streaming.
+> A futuristic music streaming experience.
 
-**Tech Stack**
+Built with:
 
-Next.js • TypeScript • Tailwind CSS • Framer Motion • Audio APIs
+⚡ Next.js  
+🎨 Tailwind CSS  
+🔷 TypeScript  
+🎵 Audio Engine Architecture  
+
+
+Features:
+
+✓ Modern music player  
+✓ Smooth animations  
+✓ Responsive interface  
+✓ Future-focused UI design
+
+s
 
 
 ---
 
 ## 🖥️ DEV-ORA
 
-A futuristic developer social platform where developers share ideas, projects, and knowledge.
+> A futuristic developer social platform.
 
-**Tech Stack**
+Built with:
 
-HTML • CSS • JavaScript • Tailwind CSS
+⚡ JavaScript  
+🎨 Tailwind CSS  
+🌐 Modern Web APIs
+
+
+Features:
+
+✓ Developer community
+✓ Post system
+✓ Interactive UI
+✓ Learning ecosystem
 
 
 ---
@@ -192,6 +216,21 @@ Currently focused on:
 
 
 </div>
+
+---
+
+# 🌌 My Vision
+
+
+I don't want to only write code.
+
+I want to build products that create impact.
+
+
+My mission:
+
+
+Every project is a step toward creating meaningful technology.
 
 # 🌎 Connect With Me
 
