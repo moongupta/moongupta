@@ -62,3 +62,15 @@ A futuristic developer social platform.
 ---
 
 ⭐ Always learning. Always building.
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=moongupta&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+## ⚡ Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,nodejs,express,mongodb,tailwind,git,github,vscode" />
+</p>
